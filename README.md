@@ -1,10 +1,6 @@
 # 🏥 Clinic Management System: Spring Boot Intensive 12-Session Roadmap
 
-Welcome to the **Clinic Management System** backend developer roadmap. This intensive 12-session curriculum is designed to transform you into a professional, production-ready backend software engineer using Java and Spring Boot. 
 
-Rather than just memorizing a framework, you will learn the core software engineering principles, database modeling, enterprise security standards, and production-ready architectural patterns applied in modern tech companies.
-
----
 
 ## 🗺️ Curriculum Overview
 
