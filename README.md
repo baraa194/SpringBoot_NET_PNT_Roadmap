@@ -121,7 +121,7 @@ Rather than just memorizing a framework, you will learn the core software engine
 
 ## 🛠️ Tech Stack & Key Tools
 * **Language:** Java 17+
-* **Framework:** Spring Boot (Spring MVC, Spring Data JPA, Spring Security)
+* **Framework:** Spring Boot (Spring Data JPA, Spring Security)
 * **Database:** PostgreSQL
 * **ORM:** Hibernate
 * **Authentication:** JWT (JSON Web Tokens)
