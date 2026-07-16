@@ -15,7 +15,7 @@
 
 ---
 
-## 🗺️ 10-Session Intensive Roadmap
+
 
 ### 📍 Session 1: Spring Fundamentals & Core Architecture
 * **Core Concepts:**
