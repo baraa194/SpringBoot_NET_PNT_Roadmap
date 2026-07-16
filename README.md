@@ -1,6 +1,6 @@
 # 🏥 Clinic Management System: Spring Boot Intensive Course
 
-Welcome to the **Clinic Management System** backend repository. This project serves as the core hands-on application for our intensive, 10-session Spring Boot development program. Throughout this course, we will build a production-ready, highly secure enterprise backend from scratch.
+
 
 ---
 
