@@ -120,7 +120,7 @@ Make sure you have the following tools installed locally:
 * **Java Development Kit (JDK 17 or higher)**
 * **Apache Maven**
 * **PostgreSQL Database**
-* An IDE of your choice (e.g., IntelliJ IDEA, Eclipse, VS Code)
+* An IDE : IntelliJ 
 
 ### Installation & Setup
 1. Clone this repository:
